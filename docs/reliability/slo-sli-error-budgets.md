@@ -23,7 +23,7 @@
 
 ## SLO Targets and Windows
 
-### **Table 2: 30 days cycle | SLO Targets and Error Budgets**
+### **Table 2: 30 days cycle | SLO Targets**
 
 | Objective | Target (SLO) | Error Budget |
 |-----------|--------------|---------------------------|
