@@ -42,7 +42,9 @@ The services are designed to meet strict service quality standards with producti
 
 ### [Reference Architecture Infrastructure](docs/architecture/infrastructure.md)
 
+
 ### [Reference Architecture Application](docs/architecture/application.md)
+
 
 ### [Highlevel Architecture Diagrams](docs/architecture/diagrams.md)
 
@@ -50,11 +52,11 @@ The services are designed to meet strict service quality standards with producti
 
 A clear Naming Convention and Tagging Strategy aligns DevOps, SRE, and Finance (FinOps) teams, ensuring resources are searchable, billable, and manageable at scale. Standardized logging enables consistent processing, ingestion, and monitoring of multi micro services interactions and their impact on system traffic.
 
-#### [Projects: Naming convention and Resource Tagging](docs/standards/naming-and-tagging.md)
+### [Projects: Naming convention and Resource Tagging](docs/standards/naming-and-tagging.md)
 
-#### [Unified Logging Schema (JSON)](docs/standards/service-logging.md)
+### [Unified Logging Schema (JSON)](docs/standards/service-logging.md)
 
-#### (TBD)[Observability Integration]
+### (TBD)[Observability Integration]
 
 TBD - Integration with Observability tools such as Datadog, NewRelic, Splunk, etc.
 
